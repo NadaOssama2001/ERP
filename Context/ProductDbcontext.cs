@@ -15,6 +15,24 @@ namespace Context
         public ProductDbcontext(DbContextOptions<ProductDbcontext> options) : base(options)
         {
         }
+          protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+
+        // Configure relationships
+        modelBuilder.Entity<Product>()
+            .HasOne(p => p.Category)
+            .WithMany(c => c.Products)
+            .HasForeignKey(p => p.CategoryId);
+
+        // Seed Categories
+        modelBuilder.Entity<Category>().HasData(
+            new Category { Id = 1, Name = "Electronics" },
+            new Category { Id = 2, Name = "Books" },
+            new Category { Id = 3, Name = "Fashion" }
+        );
+    }
+}
     }
 
     public class ApplicationUser : IdentityUser
