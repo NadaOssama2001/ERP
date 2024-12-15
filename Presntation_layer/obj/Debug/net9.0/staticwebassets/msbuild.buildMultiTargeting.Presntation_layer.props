@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Presntation_layer.props" />
+</Project>

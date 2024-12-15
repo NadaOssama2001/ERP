@@ -1,0 +1,17 @@
+C:\Users\ndoos\source\repos\Presntation\Context\bin\Debug\net9.0\Context.deps.json
+C:\Users\ndoos\source\repos\Presntation\Context\bin\Debug\net9.0\Context.runtimeconfig.json
+C:\Users\ndoos\source\repos\Presntation\Context\bin\Debug\net9.0\Context.dll
+C:\Users\ndoos\source\repos\Presntation\Context\bin\Debug\net9.0\Context.pdb
+C:\Users\ndoos\source\repos\Presntation\Context\bin\Debug\net9.0\Models.dll
+C:\Users\ndoos\source\repos\Presntation\Context\bin\Debug\net9.0\Models.pdb
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.csproj.AssemblyReference.cache
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.AssemblyInfoInputs.cache
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.AssemblyInfo.cs
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.csproj.Up2Date
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.dll
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\refint\Context.dll
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.pdb
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\Context.genruntimeconfig.cache
+C:\Users\ndoos\source\repos\Presntation\Context\obj\Debug\net9.0\ref\Context.dll

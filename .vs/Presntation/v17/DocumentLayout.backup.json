@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ndoos\\source\\repos\\Presntation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|solutionrelative:presntation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50FA31F-E651-4DCB-918E-4A8A3CE94026}|Presntation\\Presntation.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50FA31F-E651-4DCB-918E-4A8A3CE94026}|Presntation\\Presntation.csproj|solutionrelative:presntation\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation_layer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|solutionrelative:presntation_layer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7C4622-7078-45A8-A417-1A233039C131}|Application\\Application.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7C4622-7078-45A8-A417-1A233039C131}|Application\\Application.csproj|solutionrelative:application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation_layer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|solutionrelative:presntation_layer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50FA31F-E651-4DCB-918E-4A8A3CE94026}|Presntation\\Presntation.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B50FA31F-E651-4DCB-918E-4A8A3CE94026}|Presntation\\Presntation.csproj|solutionrelative:presntation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50FA31F-E651-4DCB-918E-4A8A3CE94026}|Presntation\\Presntation.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50FA31F-E651-4DCB-918E-4A8A3CE94026}|Presntation\\Presntation.csproj|solutionrelative:presntation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50FA31F-E651-4DCB-918E-4A8A3CE94026}|Presntation\\Presntation.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50FA31F-E651-4DCB-918E-4A8A3CE94026}|Presntation\\Presntation.csproj|solutionrelative:presntation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation_layer\\presntation_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|solutionrelative:presntation_layer\\presntation_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|c:\\users\\ndoos\\source\\repos\\presntation\\presntation_layer\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|solutionrelative:presntation_layer\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Presntation_layer\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Presntation_layer\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAswM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:55:14.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presntation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation\\appsettings.json",
+              "RelativeToolTip": "Presntation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T18:31:11.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Presntation\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Presntation\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:31:10.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation\\Program.cs",
+              "RelativeDocumentMoniker": "Presntation\\Program.cs",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation\\Program.cs",
+              "RelativeToolTip": "Presntation\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:31:07.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Presntation\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Presntation\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAvwGcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:30:52.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Application\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Application\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Application\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:03:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Program.cs",
+              "RelativeDocumentMoniker": "Presntation_layer\\Program.cs",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Program.cs",
+              "RelativeToolTip": "Presntation_layer\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:02:01.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Presntation_layer.csproj",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Presntation_layer.csproj",
+              "RelativeDocumentMoniker": "Presntation_layer\\Presntation_layer.csproj",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Presntation_layer.csproj",
+              "RelativeToolTip": "Presntation_layer\\Presntation_layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T18:01:57.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presntation_layer\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Presntation_layer\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T17:56:24.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presntation_layer\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Presntation_layer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presntation_layer\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAYwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:24:59.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

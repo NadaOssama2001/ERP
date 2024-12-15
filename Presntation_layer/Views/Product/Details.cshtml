@@ -1,0 +1,16 @@
+﻿@using DTOs
+@model ProductDTO
+
+<h2>Product Details</h2>
+
+<div>
+    <img src="@Url.Content("~/images/" + System.IO.Path.GetFileName(Model.ImagePath))" alt="@Model.Name" style="width: 300px;" />
+</div>
+<div>
+    <h3>@Model.Name</h3>
+    <p>Price: @Model.Price</p>
+    <p>Description: @Model.Description</p>
+    <p>Category ID: @Model.CategoryId</p>
+</div>
+
+<a class="btn btn-secondary" asp-action="Index">Back to Products</a>
