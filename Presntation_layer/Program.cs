@@ -16,14 +16,12 @@ namespace Presntation_layer
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // ≈÷«›… «·Œœ„« 
             builder.Services.AddScoped(typeof(IGenericRepository<,>), typeof(GenericRepository<,>));
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
             builder.Services.AddScoped<IProductService, ProductService>();
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddScoped<ICategoryService, CategoryService>();
 
-            // ≈⁄œ«œ «·„’«œﬁ… »«” Œœ«„ JWT
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
                 {
