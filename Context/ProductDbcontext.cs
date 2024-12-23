@@ -15,6 +15,7 @@ namespace Context
         public ProductDbcontext(DbContextOptions<ProductDbcontext> options) : base(options)
         {
         }
+<<<<<<< HEAD
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -30,6 +31,26 @@ namespace Context
                 new Category { Id = 3, Name = "Fashion" }
             );
         }
+=======
+          protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+
+        // Configure relationships
+        modelBuilder.Entity<Product>()
+            .HasOne(p => p.Category)
+            .WithMany(c => c.Products)
+            .HasForeignKey(p => p.CategoryId);
+
+        // Seed Categories
+        modelBuilder.Entity<Category>().HasData(
+            new Category { Id = 1, Name = "Electronics" },
+            new Category { Id = 2, Name = "Books" },
+            new Category { Id = 3, Name = "Fashion" }
+        );
+    }
+}
+>>>>>>> d19dc1cfe2ceb0ba852d26c59fbfef40ce3aa18d
     }
 
 
