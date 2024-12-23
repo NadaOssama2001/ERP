@@ -781,6 +781,9 @@
         }
       },
       "DTOs/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
         "runtime": {
           "DTOs.dll": {
             "assemblyVersion": "1.0.0",

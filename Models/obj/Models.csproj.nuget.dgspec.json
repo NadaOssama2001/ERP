@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ndoos\\source\\repos\\Presntation\\Models\\Models.csproj": {}
+    "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ndoos\\source\\repos\\Presntation\\Models\\Models.csproj": {
+    "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\ndoos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ndoos\\source\\repos\\Presntation\\Models\\obj\\",
+        "outputPath": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

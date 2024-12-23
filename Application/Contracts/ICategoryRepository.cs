@@ -10,7 +10,7 @@ namespace Application.Contracts
 {
     public interface ICategoryRepository
     {
-        Task<List<CategoryDTO>> GetAllCategoriesAsync();
+        Task<List<Category>> GetAllCategoriesAsync();
         Task<bool> CategoryNameExists(string categoryName);
 
     }

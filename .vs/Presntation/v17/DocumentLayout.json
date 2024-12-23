@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ndoos\\source\\repos\\Presntation\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|c:\\users\\ndoos\\onedrive\\desktop\\presntation\\presntation_layer\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|solutionrelative:presntation_layer\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Presntation_layer\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Presntation_layer\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Presntation_layer\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Presntation_layer\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:52:03.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

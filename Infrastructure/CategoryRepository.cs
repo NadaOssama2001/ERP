@@ -19,16 +19,9 @@ namespace Infrastructure
         {
             _context = context;
         }
-        public async Task<List<CategoryDTO>> GetAllCategoriesAsync()
+        public async Task<List<Category>> GetAllCategoriesAsync()
         {
-            return await _context.Categories
-                .Select(c => new CategoryDTO
-                {
-                    Id = c.Id,
-                    Name = c.Name,
-            
-                })
-                .ToListAsync();
+            return await _context.Categories.ToListAsync();
         }
 
         public async Task<bool> CategoryNameExists(string categoryName)
@@ -37,6 +30,7 @@ namespace Infrastructure
                 .AnyAsync(category => category.Name == categoryName);
         }
 
+       
     }
 }
 
