@@ -10,7 +10,7 @@ using System.Net.Http.Headers;
 
 namespace PresentationLayer.Controllers
 {
-    [Authorize]
+    //[Authorize]
 
     public class ProductController : Controller
     {
@@ -48,7 +48,7 @@ namespace PresentationLayer.Controllers
             }
             return View(product);
         }
-        [Authorize(Roles = "Admin")]
+        //[Authorize(Roles = "Admin")]
 
         public async Task<IActionResult> Create()
         {
@@ -64,7 +64,7 @@ namespace PresentationLayer.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Authorize(Roles = "Admin")]
+        //[Authorize(Roles = "Admin")]
 
         public async Task<IActionResult> Create(ProductInputModel model)
         {

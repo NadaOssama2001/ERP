@@ -1,0 +1,47 @@
+﻿@model Presntation_layer.Models.CategoryProductReportViewModel
+
+<div class="container">
+    <h2>Category Product Report</h2>
+
+    @using (Html.BeginForm("CategoryProductReport", "Report", FormMethod.Post))
+    {
+        <div class="form-group">
+            <label for="categoryDropdown">Select Category</label>
+            @Html.DropDownListFor(
+                     m => m.SelectedCategoryId,
+                     new SelectList(Model.Categories, "Id", "Name"),
+                     "Choose a category",
+                     new { @class = "form-control", id = "categoryDropdown" }
+                     )
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Show Products</button>
+    }
+
+    
+        <div class="mt-4">
+            <h3>Products</h3>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Price</th>
+                        @* <th>Stock</th> *@
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in Model.Products)
+                    {
+                        <tr>
+                            <td>@product.Name</td>
+                            <td>@product.Description</td>
+                            <td>@product.Price</td>
+                            @* <td>@product.ImagePath</td> *@
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    
+    
