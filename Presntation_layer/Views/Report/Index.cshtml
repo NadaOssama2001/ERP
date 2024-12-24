@@ -17,7 +17,8 @@
 
         <button type="submit" class="btn btn-primary mt-3">Show Products</button>
     }
-
+    @* @if (Model.Products != null && Model.Products.Any()) *@
+    @* { *@
     
         <div class="mt-4">
             <h3>Products</h3>
@@ -43,5 +44,4 @@
                 </tbody>
             </table>
         </div>
-    
-    
+    @* } *@

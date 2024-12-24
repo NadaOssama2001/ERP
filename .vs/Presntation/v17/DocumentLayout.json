@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|c:\\users\\ndoos\\onedrive\\desktop\\presntation\\presntation_layer\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|solutionrelative:presntation_layer\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|c:\\users\\ndoos\\onedrive\\desktop\\presntation\\presntation_layer\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DB7823F-8161-45CA-9B96-76A3319F4A8E}|Presntation_layer\\Presntation_layer.csproj|solutionrelative:presntation_layer\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Presntation_layer\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presntation_layer\\Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Presntation_layer\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "Presntation_layer\\Views\\Report\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T01:19:41.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReportController.cs",
               "DocumentMoniker": "C:\\Users\\ndoos\\OneDrive\\Desktop\\Presntation\\Presntation_layer\\Controllers\\ReportController.cs",
               "RelativeDocumentMoniker": "Presntation_layer\\Controllers\\ReportController.cs",
